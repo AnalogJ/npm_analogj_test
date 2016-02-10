@@ -1,7 +1,0 @@
-build:
-  image: analogj/capsulecd:node
-  commands:
-    - env
-    - pwd
-    - ls -alt
-    - ls -alt /srv/capsulecd
