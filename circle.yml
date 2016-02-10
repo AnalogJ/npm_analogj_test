@@ -6,4 +6,3 @@ dependencies:
   override:
     - docker info
     - docker pull analogj/capsulecd:node
-    u
