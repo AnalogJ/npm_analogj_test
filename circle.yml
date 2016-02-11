@@ -6,3 +6,8 @@ dependencies:
   override:
     - docker info
     - docker pull analogj/capsulecd:node
+
+test:
+  override:
+    - env
+    - docker run analogj/capsulecd:node
