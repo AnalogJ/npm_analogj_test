@@ -1,5 +1,5 @@
 {
-  "name": "test_npm",
+  "name": "npm_analogj_test",
   "version": "1.0.0",
   "description": "test npm package for capsulecd",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnalogJ/test_npm.git"
+    "url": "git+https://github.com/AnalogJ/npm_analogj_test.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AnalogJ/test_npm/issues"
+    "url": "https://github.com/AnalogJ/npm_analogj_test/issues"
   },
-  "homepage": "https://github.com/AnalogJ/test_npm#readme"
+  "homepage": "https://github.com/AnalogJ/npm_analogj_test#readme"
 }
