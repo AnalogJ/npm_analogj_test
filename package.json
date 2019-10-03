@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AnalogJ/npm_analogj_test/issues"
   },
-  "homepage": "https://github.com/AnalogJ/npm_analogj_test#readme"
+  "homepage": "https://github.com/AnalogJ/npm_analogj_test#readme",
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
 }
